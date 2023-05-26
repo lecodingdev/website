@@ -12,7 +12,7 @@ ignoreErrors = ["error-remote-getjson"]
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "img/profile.png"
+  avatar = "img/profile5.jpg"
   author = "Alan Tanadi"
   description = "Describe your website"
 
